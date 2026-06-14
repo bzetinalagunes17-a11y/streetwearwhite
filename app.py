@@ -1,3 +1,4 @@
+
 import streamlit as st
 import pandas as pd
 import os
@@ -146,67 +147,67 @@ productos = [
     {
         "nombre":"Mangalarga Affliction - Talla L",
         "precio":"$300 MXN",
-        "imagen":r"C:\Users\Admin\Desktop\IMAGES\aff.jpeg"
+        "imagen":"aff.jpeg"
     },
 
     {
         "nombre":"Suéter Interstate - Talla M",
         "precio":"$350 MXN",
-        "imagen":r"C:\Users\Admin\Desktop\IMAGES\inter.jpeg"
+        "imagen":"inter.jpeg"
     },
 
     {
         "nombre":"Mangalarga Southpole - Talla L",
         "precio":"$400 MXN",
-        "imagen":r"C:\Users\Admin\Desktop\IMAGES\mangalarga.jpeg"
+        "imagen":"mangalarga.jpeg"
     },
 
     {
         "nombre":"Camisa Ed Hardy - Talla M",
         "precio":"$300 MXN",
-        "imagen":r"C:\Users\Admin\Desktop\IMAGES\edhardy.jpeg"
+        "imagen":"edhardy.jpeg"
     },
 
     {
         "nombre":"Hoodie Disparame - Talla L",
         "precio":"$300 MXN",
-        "imagen":r"C:\Users\Admin\Desktop\IMAGES\disparame.jpeg"
+        "imagen":"disparame.jpeg"
     },
 
     {
         "nombre":"Short JNCO Buddha - Talla 34",
         "precio":"$300 MXN",
-        "imagen":r"C:\Users\Admin\Desktop\IMAGES\jnco.jpeg"
+        "imagen":"jnco.jpeg"
     },
 
     {
         "nombre":"Camisa Christian Audigier - Talla M",
         "precio":"$200 MXN",
-        "imagen":r"C:\Users\Admin\Desktop\IMAGES\cristian.jpeg"
+        "imagen":"cristian.jpeg"
     },
 
     {
         "nombre":"Pantalón Southpole - Talla 36",
         "precio":"$600 MXN",
-        "imagen":r"C:\Users\Admin\Desktop\IMAGES\pantalon.jpeg"
+        "imagen":"pantalon.jpeg"
     },
 
     {
         "nombre":"Suéter Racing Fox - Talla L",
         "precio":"$300 MXN",
-        "imagen":r"C:\Users\Admin\Desktop\IMAGES\fox.jpeg"
+        "imagen":"fox.jpeg"
     },
 
     {
         "nombre":"Suéter JNCO Pantera - Talla L",
         "precio":"$450 MXN",
-        "imagen":r"C:\Users\Admin\Desktop\IMAGES\panter.jpeg"
+        "imagen":"panter.jpeg"
     },
 
     {
         "nombre":"Chamarra Southpole Bboy - Talla XL",
         "precio":"$500 MXN",
-        "imagen":r"C:\Users\Admin\Desktop\IMAGES\boy.jpeg"
+        "imagen":"boy.jpeg"
     }
 
 ]
